@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-white: oklch(0.9837 0.0066 106.52);
+  --text-stone-700 :oklch(0.2706 0.0137 18.03);
+  --text-amber-400:oklch(0.7349 0.1613 58.77);
+  --text-emerald-950:oklch(0.4577 0.0335 151.2);
+}

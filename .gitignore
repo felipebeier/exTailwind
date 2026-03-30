@@ -1,0 +1,21 @@
+# Arquivos de backup/versões antigas
+*older.css
+*older.htm
+*old.css
+*old.htm
+*.bak
+*.tmp
+
+# Pastas de backup (caso você crie uma)
+backup/
+old/
+
+# Sistema e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node (caso venha a usar no futuro)
+node_modules/
+npm-debug.log*
