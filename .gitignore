@@ -9,6 +9,7 @@
 # Pastas de backup (caso você crie uma)
 backup/
 old/
+Assets_Drafts/
 
 # Sistema e IDEs
 .DS_Store
